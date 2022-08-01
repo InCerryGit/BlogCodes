@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SGIlogger", "SGIlogger.csproj", "{3698FCF8-DBB1-4889-B2D8-3F741D2958F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3698FCF8-DBB1-4889-B2D8-3F741D2958F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3698FCF8-DBB1-4889-B2D8-3F741D2958F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3698FCF8-DBB1-4889-B2D8-3F741D2958F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3698FCF8-DBB1-4889-B2D8-3F741D2958F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
